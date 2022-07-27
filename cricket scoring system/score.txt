@@ -1,0 +1,39 @@
+				******Match Summary*****
+		  ***1st Innings***
+===================================================
+PLAYER'S NAME        METHOD             RUNS
+===================================================
+Virat Kohli			Caught			4
+Rohit Sharma			 			1
+Shikhar Dhawan			 			4
+Vijay Shankar			 			0
+Hardik Pandya			 			0
+Kedar Jadhav			 			0
+Ravindra Jadeja			 			0
+MS Dhoni			 			0
+Dinesh Karthik			 			0
+Lokesh Rahul			 			0
+Jasprit Bumrah			 			0
+===================================================
+BOWLER'S NAME        WICKETS           RUNS CONCEDED
+===================================================
+Hussain Talat			1			9
+		  ***2nd Innings***
+===================================================
+PLAYER'S NAME        METHOD             RUNS
+===================================================
+Azhar Ali			 			12
+Babar Azam			 			0
+Asad Shafiq			 			0
+Asad Shafiq			 			0
+Abid Ali			 			0
+Shan Masood			 			0
+Imam-ul-Haq			 			0
+Fakhar Zaman			 			0
+Haris Sohail			 			0
+Fawad Alam			 			0
+Hussain Talat			 			0
+===================================================
+BOWLER'S NAME        WICKETS           RUNS CONCEDED
+===================================================
+Jasprit Bumrah			0			12
